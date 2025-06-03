@@ -21,6 +21,8 @@ LED + 330ohm resistor
 
 I placed everything on Ki-Cad and started making my traces. 
 
+![image](https://github.com/user-attachments/assets/b7a3a632-d84d-4e3c-bacf-a07879f97e0a)
+
 
 **Total time spent: 3h**
 
